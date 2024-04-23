@@ -102,7 +102,7 @@ button:hover{
 
 .me img{
     margin-top: -130px;
-    border-radius: 45%;
+    border-radius: 35%;
 }
 
 .texto p strong{
@@ -112,4 +112,8 @@ button:hover{
 .p#social{
     color: rgb(0, 153, 255);
     margin-top: 10px;
+}
+
+.texto h3 strong{
+    color: rgb(0, 153, 255);
 }

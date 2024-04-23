@@ -102,7 +102,8 @@ button:hover{
 
 .me img{
     margin-top: -130px;
-    border-radius: 45%;
+    padding-left: 0 100px 0 0;
+    border-radius: 25%;
 }
 
 .texto p strong{
